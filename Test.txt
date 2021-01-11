@@ -1,3 +1,4 @@
 My first text file.
 
 hello
+B
